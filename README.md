@@ -2,7 +2,8 @@ Code
 --------------------------
 
 Source code for all simulation, computations and plotting routines
-of [1].
+of [Harth-Kitzerow et al: Sequence motif dynamics in RNA pools](https://doi.org/10.1101/2024.12.10.627702).
+
 For different parameter sets specify one of the following system arguments:
 
 - `zebra_0`
@@ -17,5 +18,3 @@ like
 ```bash
 python3 1_infer_motif_rates_from_strand_reactor_parameters.py zebra_0
 ```
-
-[1] https://doi.org/10.1101/2024.12.10.627702
