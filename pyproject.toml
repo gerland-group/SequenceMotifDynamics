@@ -1,0 +1,28 @@
+[project]
+name = "seqmodyn"
+version = "0.2.0"
+authors = [
+    { name="Johannes Harth-Kitzerow", email="jharthki@mpa-garching.mpg.de" },
+]
+description = "Sequence Motif Dynamics in RNA Pools: Comparison of Sequence Motif Reactor Simulations with Strand Reactor Simulations"
+readme = "../README.md"
+requires-python = ">=3.10,<4.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "morsaik == 0.1.1",
+]
+license = "GPL-3.0-or-later"
+
+[poetry.group.dev.dependencies]
+pytest = "8.2.2"
+
+[build-system]
+requires = ["morsaik ==0.1.1"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Homepage = "https://gitlab.lrz.de/bioinformaion/rna-world/publications/rna-motif-dynamics.git"
+Issues = "https://gitlab.lrz.de/bioinformaion/rna-world/publications/rna-motif-dynamics/issues"

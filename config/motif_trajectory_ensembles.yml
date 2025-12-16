@@ -1,0 +1,5 @@
+id : null
+mprc_id :
+    - '9999_99_99__99_99_99_99'
+number_of_runs    : 3
+number_of_timesteps_for_ode_integration : null # recommendation: same time like strand trajectory

@@ -1,0 +1,30 @@
+concentration :
+    - 'c'
+    - 'mol/L'
+time :
+    - '\tau'
+    - '\tau_\Delta'
+mean strand length :
+    - '\overline{L}'
+    - '\text{nucleotides}'
+central produced motif :
+    - 'p_\text{c}'
+    - null
+template (complement) :
+    - 'p_\text{c}^{\prime\dagger}'
+    - null
+motif production rate constants :
+    - '\lambda'
+    - '\mathrm{mol}^2/(L^2 \tau_\Delta)'
+motif production rate constant standard deviation :
+    - '\sigma(\lambda)'
+    - '\mathrm{mol}^2/(L^2 \tau_\Delta)'
+ligation counts :
+    - 'd'
+    - '1'
+entropy :
+    - 'S'
+    - '\mathrm{bits}'
+zebraness :
+    - 'Z'
+    - ''
