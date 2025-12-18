@@ -19,4 +19,4 @@ like
 python3 1_infer_motif_rates_from_strand_reactor_parameters.py zebra_0
 ```
 
-[^1] Harth-Kitzerow, Johannes; Tobias Göppel; Burger, Ludwig; Torsten A. Enßlin; Gerland, Ulrich, 2025, "Sequence motif dynamics data", https://doi.org/10.17617/3.L2WUFG, Edmond
+[^1]: Harth-Kitzerow, Johannes; Tobias Göppel; Burger, Ludwig; Torsten A. Enßlin; Gerland, Ulrich, 2025, "Sequence motif dynamics data", https://doi.org/10.17617/3.L2WUFG, Edmond
